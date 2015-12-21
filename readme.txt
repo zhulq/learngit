@@ -3,4 +3,6 @@ hello world!
 git is free software!
 
 change!
-Creating a new branch is quick & simple.
+
+git tracks changes of files.
+create a new branch is quick AND simple.
