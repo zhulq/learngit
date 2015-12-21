@@ -3,4 +3,4 @@ hello world!
 git is free software!
 
 change!
-git tracks changes of files.
+Creating a new branch is quick & simple.
